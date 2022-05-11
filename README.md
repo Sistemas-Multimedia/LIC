@@ -1,2 +1,2 @@
-# LIC
-Lossless Image Compression.
+# RIC
+Reversible (lossless) Image Compression.
