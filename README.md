@@ -1,2 +1,2 @@
 # LIC
-Lossless Image Compresor.
+Lossless Image Compression.
